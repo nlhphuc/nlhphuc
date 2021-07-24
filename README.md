@@ -1,0 +1,5 @@
+- Hi, I’m Phuc Le Hoang Nguyen (or you can call me Benedict)
+- I have a Bachelor Degree on Industrial Systems Engineering 
+- I have interest in Data Science and currently learn some courses of basic Data Science
+- 📫 Please reach me at nlhphuc5798@gmail.com or my LinkedIn: https://www.linkedin.com/in/phucnguyen57/
+- Thank you and have a nice day!!!
