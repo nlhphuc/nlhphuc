@@ -1,4 +1,4 @@
-- Hi, I’m Phuc Le Hoang Nguyen (or you can call me Benedict).
+- Hi, I’m Nguyen, Le Hoang Phuc (or Phuc in short).
 - I am currently pursuing Master Degree of Operations Research & Business Analytics.
 - I have interest in Operations Research and Data Science.
 - 📫 Please reach me at nlhphuc5798@gmail.com or my LinkedIn: https://www.linkedin.com/in/phucnguyen57/
